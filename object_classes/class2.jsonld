@@ -1,0 +1,11 @@
+{
+  "@context": "http://www.w3.org/2001/XMLSchema-instance",
+  "@type": "ObjectClass",
+  "name": "Dataset",
+  "description": "A class representing datasets that contain metadata.",
+  "data_elements": [
+    {
+      "@id": "http://example.org/data_elements/element3"
+    }
+  ]
+}
