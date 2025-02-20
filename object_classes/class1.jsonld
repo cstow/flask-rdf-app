@@ -1,0 +1,11 @@
+{
+  "@context": "http://www.w3.org/2001/XMLSchema-instance",
+  "@type": "ObjectClass",
+  "name": "Concept",
+  "description": "A general class of data elements representing concepts.",
+  "data_elements": [
+    {
+      "@id": "http://example.org/data_elements/element1"
+    }
+  ]
+}
