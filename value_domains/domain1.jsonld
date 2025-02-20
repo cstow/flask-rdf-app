@@ -1,0 +1,7 @@
+{
+  "@context": "http://www.w3.org/2001/XMLSchema-instance",
+  "@type": "ValueDomain",
+  "name": "Label Values",
+  "description": "The set of possible labels that can be assigned to a concept.",
+  "permissible_values": ["Location", "Person", "Event"]
+}
