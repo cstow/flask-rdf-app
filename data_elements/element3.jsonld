@@ -1,0 +1,11 @@
+{
+  "@context": "http://www.w3.org/2001/XMLSchema-instance",
+  "@type": "DataElement",
+  "identifier": "DE-003",
+  "name": "identifier",
+  "definition": "Unique identifier for the concept.",
+  "data_type": "string",
+  "value_domain": {
+    "@id": "http://example.org/value_domains/identifier_values"
+  }
+}
