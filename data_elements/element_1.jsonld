@@ -4,6 +4,7 @@
   "identifier": "DE-001",
   "name": "PrefLabel",
   "definition": "A human-readable label for a concept.",
+    "related": "https://www.w3.org/TR/skos-reference/#labels"
   "data_type": "string",
   "value_domain": {
     "@id": "http://example.org/value_domains/label_values"
