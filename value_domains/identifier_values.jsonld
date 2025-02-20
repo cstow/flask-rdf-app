@@ -1,0 +1,7 @@
+{
+  "@context": "http://www.w3.org/2001/XMLSchema-instance",
+  "@type": "ValueDomain",
+  "name": "Identifier Values",
+  "description": "The permissible set of identifiers for concepts.",
+  "permissible_values": ["UUID", "URI"]
+}
