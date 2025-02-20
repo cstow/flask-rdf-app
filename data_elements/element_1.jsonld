@@ -8,4 +8,7 @@
   "value_domain": {
     "@id": "http://example.org/value_domains/label_values"
   }
+  "related": {
+    "skos": "https://www.w3.org/TR/skos-reference/#prefLabel"
+  }
 }
