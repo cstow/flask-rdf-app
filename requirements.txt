@@ -1,1 +1,7 @@
-
+flask
+flask-cors
+rdflib
+networkx
+matplotlib
+pydotplus
+gunicorn
